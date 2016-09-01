@@ -1,0 +1,17 @@
+Aisha Covington
+September 1,2016
+
+
+Dice Game
+	Found bug of that did not include the line method of print.
+	corrected it by adding "ln" :
+		System.out.println("You rolled "+ roll +". ");
+
+AccountTest
+	Found bug of Initialization Error.
+
+	Corrected it by stepping through the code
+
+ClassRoster
+	Found bug of"'op' is never closed:"
+	Corrected it by inserting closed curly bracket to end statement.

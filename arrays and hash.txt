@@ -1,0 +1,18 @@
+ArrayLIst<ROCK> myRockList = new ArrayList<Rock>();
+
+myRockList.add(grey); myRockList.add(brown); myRockList.add(slate); myRockList.add(white); 
+
+Rock objRock = myRockPile.get()
+
+
+for(int 
+
+for(Rock aROckfrompile:myRockList) 
+{
+aRockFromPile.breakRock();
+}
+
+
+
+"MARK THE JAVA dOC"     
+

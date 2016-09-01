@@ -1,0 +1,54 @@
+bootCampClass.add()
+
+008888		Evan Tizard		brown		12
+001449		Karen Reiter		blue		10
+004014 		Aisha Covington 	brown 		11
+343769		Shaquil Timmons		brown		11
+7722223		Daniel Kiros			
+001100		Kevin Tran		Other		12
+005255		Joesph Hill		Brown		13
+306700		Li Lui			Brown		12
+009999		Stephen Ellwood
+001212 		Stephen Rook 		brown 		11
+004444		Peter Choi		Brown 		2
+001122 		Michael Clair  		other 		12
+132617		Reuben Turner		blue		12
+267252		Dax Richards		brown		12
+006789		Arun Soma		brown		2
+229949		Michael Sykes
+215296		Joshua	Franey		other		27
+523420		Gabriel Hamilton	other		10
+474143  	Jonathan Stafford  	brown 		12
+005295		Kyle Deen		Blue		2
+
+
+
+
+
+
+
+
+
+
+
+
+Student std1= new Student("004014", "Aisha", "Covington", "brown", 10);
+Student std2= new Student("008888", "Evan", "Tizard", "brown", 12);
+Student std3= new Student("001449", "Karen", "Reiter", "blue", 10);
+Student std4= new Student("343769", "Shaquil", "Timmons", "brown", 11);
+Student std5= new Student("7722223", "Daniel", "Kiros", "brown", 3);
+Student std6= new Student("001100", "Kevin", "Tran", "other", 12);
+Student std7= new Student("005255", "Joesph", "Hill", "brown", 13);
+Student std8= new Student("306700", "Li", "Lui", "brown", 12);
+Student std9= new Student("009999", "Stephen", "Ellwood", "other", 2);
+Student std10= new Student("001212", "Stephen", "Rook", "brown", 11);
+Student std11= new Student("004444", "Peter", "Choi", "brown", 2);
+Student std12= new Student("001122", "Michael", "Clair", "other", 12);
+Student std13= new Student("132617", "Reuben", "Turner", "blue", 12);
+Student std14= new Student("267252", "Dax", "Richards", "brown", 12);
+Student std15= new Student("006789", "Arun", "Soma", "brown", 2);
+Student std16= new Student("229949", "Michael", "Sykes", "brown", 13);
+Student std17= new Student("215296", "Joshua", "Franey", "other", 27);
+Student std18= new Student("523420", "Gabriel", "Hamilton", "other", 10);
+Student std19= new Student("474143", "Jonathan", "Stafford", "brown", 12);
+Student std20= new Student("005295", "Kyle", "Deen", "blue", 2);

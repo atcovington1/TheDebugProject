@@ -1,0 +1,33 @@
+Savings c = new Savings("Savings C");
+	c.setIntRate(0.025);
+	c.deposit(500.00);
+
+Checking d = new Checking("Checking");
+	d.deposit(500.00);
+	d.withdrew(100.00);
+
+
+
+
+ArrayList<Account> accounts = new ArrayList<Account>();
+       accounts.add(a);
+       accounts.add(b);
+       accounts.add(c);
+
+for(Account account: accounts){
+	System.out.println(account.print());
+
+	}
+
+
+void printStudentDetail(Student student) {
+	System.out.printf("%-18s   %-22s   %-25s   %-19s   %1d \n",
+			account.t, account.type, account.description, account.balance, account.chknbr, account.interestRate);
+
+void printRosterHeader()  {
+			String header = "Student Class Roster \n"
+					+ "T    Act	Description       	      Bal      Chk      Rate"
+					+ "=	===     ======================        ======   ====     ====== \n";
+  System.out.println(header);
+  
+"T" \t}
